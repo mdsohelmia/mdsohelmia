@@ -13,21 +13,19 @@
  const sohelmia = {
     pronouns: "He" | "Him",
     code: ["PHP","Javascript", "Go", "Dart"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    askMeAbout: ["web dev", "tech", "app dev","backend engineer"],
     technologies: {
-        backEnd: {
-            js: ["PHP", "Go", "Laravel", "Lumen"],
-        },
+        backEnd:["PHP", "Go", "Laravel", "Lumen","Redis"],
         mobileApp: {
-            native: ["Android Development", "IOS Development"]
+            hybrid: ["Android Development", "IOS Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
-      architecture: ["modern monolith","microservices", "event-driven", "design system pattern"],
+      architecture: ["modern monolith","microservices", "domain-driven design)", "design system pattern"],
    
-    currentFocus: "Ios Mobile App Development",
+    currentFocus: "Build microserviceses by golang ",
+    
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
