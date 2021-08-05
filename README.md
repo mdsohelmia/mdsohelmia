@@ -28,7 +28,8 @@
         databases: ["MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+      architecture: ["modern monolith","microservices", "event-driven", "design system pattern"],
+   
     currentFocus: "Ios Mobile App Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
