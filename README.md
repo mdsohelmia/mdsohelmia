@@ -1,4 +1,4 @@
-<h2>Assalamualaikum,I'm Sohel Mia! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi,I'm Sohel Mia! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://adaickalavan.github.io/assets/images/gophercises_lifting.jpg" width="230">
 <p><em>Software Engineer at <a href="https://gotipath.com/">Gotipath</a>
 </em></p>
