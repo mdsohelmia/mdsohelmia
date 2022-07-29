@@ -4,7 +4,7 @@ Welcome to my profile! Currently i'm working at [Gotipath](https://gotipath.com/
 
 ## Skills
 
-**Languages:** Golang, Javascript, PHP, Laravel,Lua\
+**Languages:** Golang, Javascript, PHP,Lua\
 **Libraries:** React,Alpinejs\
-**Frameworks:** Next.js,Vuejs,Nuxtjs\
+**Frameworks:** Laravel,Next.js,Vuejs,Nuxtjs\
 **Tools:** Git, Github, Gitlab,vercel,Docker,Kubernetes
