@@ -22,5 +22,5 @@ Welcome to my profile! Currently i'm working at [Gotipath](https://gotipath.com/
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohel1999&theme=dark&show_icons=true&count_private=true&hide=contribs&line_height=40" />
 </a>
 <a href="https://github.com/sohel1999">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohel1999&theme=dark&langs_count=4&hide=javascript,html,css,erlang" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohel1999&theme=dark&langs_count=4&hide=html,css,erlang" />
 </a>
