@@ -1,5 +1,5 @@
 # Hi! I'm Sohel 👋
-Welcome to my profile! Currently i'm working at [Gotipath](https://gotipath.com/) as a Software  Engineer. Thanks for visiting and I'd love to connect!
+Welcome to my profile! Currently i'm working at [Gotipath](https://gotipath.com/) as a Senior Software  Engineer. Thanks for visiting and I'd love to connect!
 
 ### Quick highlighs
 
