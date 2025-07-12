@@ -1,26 +1,49 @@
-# Hi! I'm Sohel 👋
-Welcome to my profile! Currently i'm working at [Gotipath](https://gotipath.com/) as a Senior Software  Engineer. Thanks for visiting and I'd love to connect!
+# 👋 Hi there, I'm Sohel Mia
 
-### Quick highlighs
+I'm a backend and infrastructure engineer turned entrepreneur. As **Co-founder & CTO of [Tenbyte](https://tenbyte.com.my)**, I’m focused on building **global video and cloud infrastructure** — helping companies move content faster, more securely, and more reliably across the globe.
 
-- Extensive experience in Golang and PHP
-- 3 + years of professional experience in the software industry
-- Developed applications by following SOLID principles, clean architecture.
-- Opensource enthusiast and love write elegant code.
-- Building CDN Infrastucture.
-- Try to improvement developing distributed  system using microservice architecture.
+---
 
-### Technology Stacks
-- Language: Golang, PHP,Javascript,Lua
-- Frameworks:Laravel,Nextjs,Nuxtjs,Vuejs,Reactjs,Gin
-- Messaging: RabbitMQ, Kafka,Redis
-- DBMS: MySQL, PostgreSQL, MongoDB,ClickHouse(column-oriented)
-- Infrastructure: Docker, Kubernetes, Kong ApiGatway, CI/CD,Openresty,Nginx
+### 👨‍💻 About Me
 
+- 🏗️ Building global CDN & video infrastructure at Tenbyte
+- 🔁 Designing scalable **distributed systems** & **microservices**
+- 🎞️ Working on **video encoding**, **transcoding**, **DRM**, and **video security**
+- 💻 8+ years building production-grade software
+- 💡 Advocate of **clean architecture**, **SOLID principles**, and simplicity in systems
+- ❤️ Open source enthusiast and infrastructure hacker
 
-<a href="https://github.com/sohel1999">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sohel1999&theme=dark&show_icons=true&count_private=true&hide=contribs&line_height=40" />
-</a>
-<a href="https://github.com/sohel1999">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohel1999&theme=dark&langs_count=4&hide=html,css,erlang" />
-</a>
+---
+
+### 🚀 Tech Stack
+
+**Languages:**  
+`Golang`, `PHP`, `JavaScript`, `TypeScript`, `Lua`, `C`, `C++`
+
+**Frameworks & Tools:**  
+`Gin`, `Laravel`, `Vue.js`, `React.js`, `Next.js`, `Nuxt.js`
+
+**Messaging & Caching:**  
+`Redis`, `RabbitMQ`, `Kafka`
+
+**Databases:**  
+`PostgreSQL`, `MySQL`, `MongoDB`, `ClickHouse`
+
+**Infrastructure & DevOps:**  
+`Docker`, `Kubernetes`, `Nginx`, `OpenResty`, `Kong API Gateway`, `CI/CD`
+
+**Specialties:**  
+`Temporal Workflow`, `Video Encoding`, `Transcoding`, `DRM`, `Video Security`
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [tenbyte.com.my](https://tenbyte.com.my)
+- 🐦 [@mdsohelmia](https://twitter.com/mdsohelmia)
+- 💼 [LinkedIn](https://linkedin.com/in/mdsohelmia)
+
+---
+
+> _"Build systems that scale. Solve problems that matter."_  
+> — Sohel Mia, CTO @ Tenbyte
