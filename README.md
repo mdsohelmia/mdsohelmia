@@ -1,21 +1,21 @@
-# 👋 Hi there, I'm Sohel Mia
+# 👋 Hey there! I’m Sohel Mia
 
-I'm a backend and infrastructure engineer turned entrepreneur. As **Co-founder & CTO of [Tenbyte](https://tenbyte.com.my)**, I’m focused on building **global video and cloud infrastructure** — helping companies move content faster, more securely, and more reliably across the globe.
-
----
-
-### 👨‍💻 About Me
-
-- 🏗️ Building global CDN & video infrastructure at Tenbyte
-- 🔁 Designing scalable **distributed systems** & **microservices**
-- 🎞️ Working on **video encoding**, **transcoding**, **DRM**, and **video security**
-- 💻 8+ years building production-grade software
-- 💡 Advocate of **clean architecture**, **SOLID principles**, and simplicity in systems
-- ❤️ Open source enthusiast and infrastructure hacker
+I’m a backend and infrastructure engineer who took the leap into entrepreneurship. Now, as the **Co-founder & CTO at [Tenbyte](https://tenbyte.com.my)**, I’m on a mission to build **global video and cloud infrastructure** that helps businesses deliver content faster, safer, and more reliably — no matter where their users are.
 
 ---
 
-### 🚀 Tech Stack
+### 👨‍💻 A Bit About Me
+
+- I’m passionate about building scalable **CDNs and video platforms** that just work.
+- I love designing **distributed systems** and **microservices** that can grow effortlessly.
+- My work focuses a lot on **video encoding, transcoding, DRM, and security** — making sure video content is smooth and secure.
+- Over the years, I’ve built production software that solves real problems (8+ years and counting!).
+- I’m a big believer in writing clean, maintainable code using **SOLID principles** and simple, elegant architecture.
+- When I’m not coding or architecting systems, I’m often exploring open source projects and hacking on infrastructure tools.
+
+---
+
+### 🚀 What I Work With
 
 **Languages:**  
 `Golang`, `PHP`, `JavaScript`, `TypeScript`, `Lua`, `C`, `C++`
@@ -37,13 +37,15 @@ I'm a backend and infrastructure engineer turned entrepreneur. As **Co-founder &
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let’s Connect!
+
+Feel free to say hi or reach out on:
 
 - 🌐 [tenbyte.com.my](https://tenbyte.com.my)
-- 🐦 [@mdsohelmia](https://twitter.com/mdsohelmia)
+- 🐦 [Twitter @mdsohelmia](https://twitter.com/mdsohelmia)
 - 💼 [LinkedIn](https://linkedin.com/in/mdsohelmia)
 
 ---
 
-> _"Build systems that scale. Solve problems that matter."_  
+> _“I believe the best systems are those that quietly just work — at scale, with simplicity and reliability.”_  
 > — Sohel Mia, CTO @ Tenbyte
