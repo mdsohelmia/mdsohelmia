@@ -43,7 +43,7 @@ Feel free to say hi or reach out on:
 
 - 🌐 [tenbyte.com.my](https://tenbyte.com.my)
 - 🐦 [Twitter @mdsohelmia](https://twitter.com/mdsohelmia)
-- 💼 [LinkedIn](https://linkedin.com/in/mdsohelmia)
+- 💼 [LinkedIn](www.linkedin.com/in/sohelmia)
 
 ---
 
