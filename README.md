@@ -1,6 +1,6 @@
 # 👋 Hey there! I’m Sohel Mia
 
-I’m a backend and infrastructure engineer who took the leap into entrepreneurship. Now, as the **Co-founder & CTO at [Tenbyte](https://tenbyte.com.my)**, I’m on a mission to build **global video and cloud infrastructure** that helps businesses deliver content faster, safer, and more reliably — no matter where their users are.
+I’m a backend and infrastructure engineer who took the leap into entrepreneurship. Now, as the **Co-founder & CTO at [Tenbyte](https://www.tenbyte.io)**, I’m on a mission to build **global video and cloud infrastructure** that helps businesses deliver content faster, safer, and more reliably — no matter where their users are.
 
 ---
 
@@ -41,7 +41,7 @@ I’m a backend and infrastructure engineer who took the leap into entrepreneurs
 
 Feel free to say hi or reach out on:
 
-- 🌐 [tenbyte.com.my](https://tenbyte.com.my)
+- 🌐 [tenbyte.io]([https://tenbyte.com.my](https://www.tenbyte.io/))
 - 🐦 [Twitter @mdsohelmia](https://twitter.com/mdsohelmia)
 - 💼 [LinkedIn](www.linkedin.com/in/sohelmia)
 
